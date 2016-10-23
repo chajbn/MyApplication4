@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
        /// 测试4655756746
         //testing code  weidonghua 14"25
+        //testing code  weidonghua 14"25 again
     }
 }

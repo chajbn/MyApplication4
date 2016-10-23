@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //testing code  weidonghua 14"25
-        //testing code  weidonghua 14"25 again
+        //testing code  weidonghua 14"25 bendie
     }
 }

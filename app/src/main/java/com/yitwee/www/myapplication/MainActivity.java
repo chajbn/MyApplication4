@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //testing code  weidonghua 14"25
         //cjb1 xiugai
+        //xiugai cjb2
     }
 }
